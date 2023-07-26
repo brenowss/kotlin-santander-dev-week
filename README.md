@@ -2,12 +2,9 @@
 
 This project is a simple clone of Santander's app home page implemented using Kotlin. It aims to recreate the basic layout and design of the Santander app's home page for learning and demonstration purposes. Please note that this is not an official Santander application and is intended solely for educational use.
 
-
-
 ## Screenshots
 
-![App Screenshot](https://github.com/brenowss/kotlin-santander-dev-week/.github/example.png)
-
+![App Screenshot](https://github.com/brenowss/kotlin-santander-dev-week/blob/main/.github/example.png)
 
 ## Getting Started
 
@@ -16,7 +13,6 @@ To get started with this project, follow the steps below:
 1. **Clone the Repository**: Use Git to clone this repository to your local machine.
 
 git clone https://github.com/brenowss/kotlin-santander-dev-week.git
-
 
 2. **Open in Android Studio**: Launch Android Studio and select "Open an existing Android Studio project." Browse to the location where you cloned the repository and open it.
 
